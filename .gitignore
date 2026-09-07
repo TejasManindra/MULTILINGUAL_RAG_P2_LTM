@@ -1,0 +1,12 @@
+@"
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.vscode/
+data/raw/
+data/processed/
+*.log
+"@ | Out-File -Encoding utf8 .gitignore

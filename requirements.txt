@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+
+pymupdf
+beautifulsoup4
+requests
+pandas
+python-dotenv
